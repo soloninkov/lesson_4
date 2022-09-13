@@ -1,0 +1,55 @@
+body {
+  font-family: "lato-bold";
+}
+
+h1 {
+  color: brown;
+  font-family: "Lato-Black";
+}
+.header {
+  color: blue;
+}
+h1.header {
+  color: black;
+}
+a {
+  color: aquamarine;
+  font-family: "Roboto", sans-serif;
+}
+
+#up {
+  color: coral;
+}
+
+.text {
+  color: deeppink;
+}
+.text.lesson p {
+  color: greenyellow;
+  font-family: "Larsseit-Bold";
+}
+
+p.text {
+  color: orange;
+  font-family: "lato-regular";
+}
+div.div {
+  color: darkgrey;
+}
+div.div p {
+  color: darkorchid;
+}
+
+h4 {
+  color: black;
+}
+.paragraf {
+  color: red;
+  font-family: "Larsseit-Medium";
+}
+.content * {
+  color: cornflowerblue;
+}
+div {
+  color: darkgreen;
+}
